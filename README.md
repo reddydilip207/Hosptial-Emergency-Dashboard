@@ -21,7 +21,4 @@ Calculated Measures & KPIs: Admission %, average wait times, patient counts by c
 Project Impact:
 1, Enabled hospital staff to identify bottlenecks and optimize patient flow.
 2, Provided data-driven insights for resource allocation and operational planning.
-3, Translated complex hospital data into clear, actionable visualizations to support decision-making.
-
-Dashboard Link
-https://github.com/reddydilip207/Hosptial-Emergency-Dashboard/blob/main/Hospital%20Emergency%20Room%20Dashboard%201.png
+3, Translated complex hospital data into clear, actionable visualizations to support decision-making

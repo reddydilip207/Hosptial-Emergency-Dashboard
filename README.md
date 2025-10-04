@@ -13,7 +13,7 @@ Three Dashboard Views:
 6, Peak Time Identification: Heatmaps highlight patient volume by day of the week and hour of the day, aiding staffing and resource allocation.
 7, Performance Monitoring: Tracks and compares actual vs. target KPIs to improve operational efficiency.
 
-Tools :
+Tool Used:
 Power BI 
 
 Calculated Measures & KPIs: Admission %, average wait times, patient counts by category
@@ -22,3 +22,6 @@ Project Impact:
 1, Enabled hospital staff to identify bottlenecks and optimize patient flow.
 2, Provided data-driven insights for resource allocation and operational planning.
 3, Translated complex hospital data into clear, actionable visualizations to support decision-making.
+
+Dashboard Link
+https://github.com/reddydilip207/Hosptial-Emergency-Dashboard/blob/main/Hospital%20Emergency%20Room%20Dashboard%201.png
